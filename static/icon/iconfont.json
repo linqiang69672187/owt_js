@@ -1,0 +1,65 @@
+{
+  "id": "2001855",
+  "name": "gis",
+  "font_family": "iconfont",
+  "css_prefix_text": "el-icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "444403",
+      "name": "链接",
+      "font_class": "lianjie",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "1493315",
+      "name": "链接",
+      "font_class": "web-icon-",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    },
+    {
+      "icon_id": "5329911",
+      "name": "链接-断开",
+      "font_class": "lianjie-duankai",
+      "unicode": "e747",
+      "unicode_decimal": 59207
+    },
+    {
+      "icon_id": "5485635",
+      "name": "链接",
+      "font_class": "lianjie1",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "9915910",
+      "name": "HTSCIT_链接断开1",
+      "font_class": "HTSCIT_lianjieduankai",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "9915912",
+      "name": "HTSCIT_链接断开",
+      "font_class": "HTSCIT_lianjieduankai1",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "12687393",
+      "name": "链接",
+      "font_class": "icon-",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "15995452",
+      "name": "链接断开",
+      "font_class": "lianjieduankai",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    }
+  ]
+}
